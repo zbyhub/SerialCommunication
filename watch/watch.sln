@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "watch", "watch\watch.vcxproj", "{A7E0FB5C-6834-404D-B335-ABBB62430CB3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SerialWatcher1.0", "..\..\..\app\SerialWatcher1.0\SerialWatcher1.0.vdproj", "{D1C47A78-804E-4FB8-9DD9-0E27B2ED4F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Debug|x64.ActiveCfg = Debug|x64
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Debug|x64.Build.0 = Debug|x64
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Debug|x86.Build.0 = Debug|Win32
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Release|x64.ActiveCfg = Release|x64
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Release|x64.Build.0 = Release|x64
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Release|x86.ActiveCfg = Release|Win32
+		{A7E0FB5C-6834-404D-B335-ABBB62430CB3}.Release|x86.Build.0 = Release|Win32
+		{D1C47A78-804E-4FB8-9DD9-0E27B2ED4F7B}.Debug|x64.ActiveCfg = Debug
+		{D1C47A78-804E-4FB8-9DD9-0E27B2ED4F7B}.Debug|x86.ActiveCfg = Debug
+		{D1C47A78-804E-4FB8-9DD9-0E27B2ED4F7B}.Release|x64.ActiveCfg = Release
+		{D1C47A78-804E-4FB8-9DD9-0E27B2ED4F7B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8929579C-2FB7-418D-8CFE-76772637D254}
+	EndGlobalSection
+EndGlobal

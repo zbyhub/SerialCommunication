@@ -1,0 +1,9 @@
+﻿  Serial.cpp
+  watch.cpp
+e:\workspace\vs\sumtest\watch\watch\watch.cpp(315): warning C4244: “=”: 从“__time64_t”转换到“__time32_t”，可能丢失数据
+  正在生成代码
+  1 of 159 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  watch.vcxproj -> E:\workspace\VS\sumtest\watch\Release\watch.exe

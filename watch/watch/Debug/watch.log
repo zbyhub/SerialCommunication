@@ -1,0 +1,6 @@
+﻿  Serial.cpp
+  watch.cpp
+e:\workspace\vs\sumtest\watch\watch\watch.cpp(315): warning C4244: “=”: 从“__time64_t”转换到“__time32_t”，可能丢失数据
+  正在生成代码...
+e:\workspace\vs\sumtest\watch\watch\serial.cpp(483): warning C4715: “Serial::DoesMyComWorking”: 不是所有的控件路径都返回值
+  watch.vcxproj -> E:\workspace\VS\sumtest\watch\Debug\watch.exe
